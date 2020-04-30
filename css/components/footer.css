@@ -1,0 +1,22 @@
+.footer {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.fa-fw {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1.25em;
+    font-size: 50px;
+}
+
+.fa-fw:hover {
+  background-color: white;
+  color: black;
+}
+
